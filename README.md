@@ -2,5 +2,5 @@
 Development of Melon Leaf Disease Detection  System with Deep Learning 
 
 
-model:
+data-set:
 https://universe.roboflow.com/molonyez55-wnf26/melony
